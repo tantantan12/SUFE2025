@@ -7,3 +7,4 @@ faiss-cpu
 python-dotenv
 tiktoken
 beautifulsoup4
+sentence-transformers
