@@ -2,7 +2,6 @@
   "name": "My Codespace",
   "image": "mcr.microsoft.com/devcontainers/python:3.11",  // or any dev container image
   "postCreateCommand": "pip install -r requirements.txt",
-
   "features": {},
   "postCreateCommand": "pip install -r requirements.txt",
   "remoteEnv": {
