@@ -1,0 +1,9 @@
+langchain
+langchain-community
+openai
+requests
+supabase
+faiss-cpu
+python-dotenv
+tiktoken
+beautifulsoup4
