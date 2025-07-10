@@ -9,4 +9,4 @@
 - Pressentation
 - Evaluation form should be sent to lymybrlt@126.com before the end of July 11th.
 
-- 
+- My email: janetanxue@gmail.com
